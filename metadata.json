@@ -1,0 +1,6 @@
+{
+  "name": "Aaina - Immersive Social Commerce Marketplace",
+  "description": "Next-generation social commerce marketplace uniting shoppable short-form Reels, AI Virtual Try-On (Aaina Mirror), 3D/AR spatial preview (Aaina Room), and AI-powered seller tools.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
